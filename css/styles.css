@@ -8,9 +8,8 @@ a {
 button {
     cursor: pointer;
 }
-img {
-    display: block;
-}
+
+
 body {
     font-family: "Roboto", sans-serif;
     color:#434455 ;
@@ -65,9 +64,10 @@ color: #404bbf
 .h-hero {
         font-size: 56px;
         line-height: 1.07;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.02em; 
+        text-align: center;
         color: #fff;
-       
+        
 }
 .button {
     font-family: "Roboto", sans-serif;
@@ -115,6 +115,7 @@ background: #ffffff;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
         color: #2e2f42;
 
 }
@@ -146,6 +147,7 @@ background-color: #F4F4FD
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
         color: #2e2f42;
 }
 
